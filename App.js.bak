@@ -8,8 +8,7 @@ import { store, persistor } from './app/store';
 import Navigator from './app/navigation/NavigatorContainer';
 import styles from './app/styles/AppStyles';
 import colors from './app/styles/colors';
-import { appOperations } from './app/modules/app'
-
+import { appOperations } from './app/modules/app';
 
 console.ignoredYellowBox = ['MenuContext', 'Deprecation warning'];
 
